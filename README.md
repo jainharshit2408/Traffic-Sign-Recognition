@@ -12,7 +12,7 @@ enabling accurate and real-time sign recognition for autonomous vehicles and dri
 assistance systems.
 
 
-1. INTRODUCTION:
+INTRODUCTION:
 Traffic signs are crucial to road safety because they advise drivers about regulations, 
 risks, and directions. Accurate sign identification is critical for safe driving, yet complex 
 sign variants can pose difficulties for human drivers. This project solves this issue by 
@@ -20,7 +20,7 @@ developing a deep learning model that can recognize street signs from the GTSRB
 dataset.
 
 
-3. MOTIVATION AND CONTRIBUTION:
+MOTIVATION AND CONTRIBUTION:
 Improved road safety: Accurate Street sign recognition allows autonomous vehicles 
 and driver assistance systems to respond to traffic restrictions and warnings in an 
 appropriate manner, potentially saving lives.
